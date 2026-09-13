@@ -1,5 +1,5 @@
 
-<h1 align="center">Irfan Haider Abir</h1>
+<h1 align="center">IRFAN HAIDER ABIR</h1>
 
 <p align="center">
   <strong>Full-Stack Web Developer</strong>
