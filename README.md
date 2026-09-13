@@ -78,12 +78,6 @@ A lightweight web project for finding exam schedules with a simple, accessible i
 </tr>
 </table>
 
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mysql,html,css,git,github,vscode,vite&perline=12" />
-</p>
-
 ## Right now
 
 ```text
