@@ -1,137 +1,113 @@
 
-<div align="center">
+<h1 align="center">Irfan Haider Abir</h1>
 
-# Hi, I'm Irfan Haider Abir 👋
-
-### Web Developer | React • Next.js • JavaScript
-
-<p>
-  I enjoy building clean, responsive and practical web applications.
-  <br/>
-  Currently improving my skills through real-world projects and continuous learning.
+<p align="center">
+  <strong>Full-Stack Web Developer</strong>
+  <br />
+  Building clean interfaces and practical web applications.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=iRfANhAiDeRABiR&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+<p align="center">
+  <a href="https://github.com/iRfANhAiDeRABiR">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-22c55e?style=flat-square" />
+</p>
 
-</div>
+<br />
 
----
+## About
 
-## 👨‍💻 About Me
+I'm a developer from **Dhaka, Bangladesh**, focused on building modern web applications with JavaScript.
 
-- 🌍 Based in **Dhaka, Bangladesh**
-- 💻 Building modern web applications
-- ⚛️ Working with **React** and **Next.js**
-- 🌱 Currently improving my **full-stack development** skills
-- 🎯 Focused on writing clean and maintainable code
-- 📚 Learning by building real projects
-- 🚀 Interested in modern web technologies
+I like turning ideas into working products, learning new technologies through projects, and improving the small details that make software easier to use.
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-
-### Backend & Runtime
-
-<img src="https://skillicons.dev/icons?i=nodejs,npm" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/iRfANhAiDeRABiR/Findexamdate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iRfANhAiDeRABiR&repo=Findexamdate&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/iRfANhAiDeRABiR/Healthcare-react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iRfANhAiDeRABiR&repo=Healthcare-react&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iRfANhAiDeRABiR&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRfANhAiDeRABiR&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=iRfANhAiDeRABiR&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iRfANhAiDeRABiR&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-React        ███████████████████░   Building
-Next.js      ██████████████████░░   Learning
-JavaScript   ███████████████████░   Improving
-Frontend     ████████████████████   Building
-Backend      ████████████░░░░░░░░   Learning
-````
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/iRfANhAiDeRABiR">
-  <img src="https://img.shields.io/badge/GitHub-iRfANhAiDeRABiR-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Code • Learn • Build • Improve
-
-<sub>Thanks for visiting my GitHub profile.</sub>
-
-</div>
+```js
+const irfan = {
+  location: "Dhaka, Bangladesh",
+  focus: "Full-Stack Web Development",
+  frontend: ["React", "Next.js", "JavaScript"],
+  backend: ["Node.js", "Express"],
+  database: ["MySQL"],
+  currently: "Building & learning"
+};
 ```
 
-### How to add it
+## Selected Work
 
-Go to your `iRfANhAiDeRABiR` profile repository → **Add file → Create new file** → name it `README.md` → paste everything from above → **Commit changes**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Your special profile repository already exists but is currently empty, so adding `README.md` there should make the profile README appear.
+### 🩺 Healthcare Service
 
-If you want, I can also make you a **more advanced “2026 developer portfolio” version** with animated header, social buttons, contribution snake, better project cards, and a cleaner black/purple developer theme.
+Full-stack healthcare platform connecting users with hospitals, diagnostics, blood banks, pharmacies, ambulance support and telemedicine.
+
+**Built with**
+
+`React` `Vite` `Node.js` `Express` `MySQL` `JWT`
+
+<a href="https://github.com/iRfANhAiDeRABiR/Healthcare-react">
+  View repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📅 Exam Schedule Finder
+
+A lightweight web project for finding exam schedules with a simple, accessible interface.
+
+**Built with**
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/iRfANhAiDeRABiR/Findexamdate">
+  View repository →
+</a>
+
+<br />
+
+<a href="https://findexamdate.vercel.app">
+  Live demo →
+</a>
+
+</td>
+</tr>
+</table>
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mysql,html,css,git,github,vscode,vite&perline=12" />
+</p>
+
+## Right now
+
+```text
+Building       → web applications
+Learning       → Next.js & modern full-stack development
+Improving      → UI, architecture and clean code
+Exploring      → APIs, databases and production workflows
+```
+
+## GitHub
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRfANhAiDeRABiR&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888"
+    height="150"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    build → learn → improve → repeat
+  </sub>
+</p>
+````
