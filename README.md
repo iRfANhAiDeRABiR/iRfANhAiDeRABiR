@@ -56,22 +56,16 @@ Full-stack healthcare platform connecting users with hospitals, diagnostics, blo
 
 <td width="50%" valign="top">
 
-### 📅 Exam Schedule Finder
+### 🎓 Meritloom — Mastery Learning Platform
 
-A lightweight web project for finding exam schedules with a simple, accessible interface.
+A modern learning platform focused on structured learning, progress tracking, and a clean student experience.
 
 **Built with**
 
-`HTML` `CSS` `JavaScript`
+`Next.js` `React` `JavaScript` `Modern UI`
 
-<a href="https://github.com/iRfANhAiDeRABiR/Findexamdate">
+<a href="https://github.com/iRfANhAiDeRABiR/Meritloom--Mastery-Learning-Platform">
   View repository →
-</a>
-
-<br />
-
-<a href="https://findexamdate.vercel.app">
-  Live demo →
 </a>
 
 </td>
