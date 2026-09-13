@@ -1,16 +1,17 @@
+````md
 <div align="center">
 
 # Hi, I'm Irfan Haider Abir 👋
 
-### Frontend Developer • React Learner • Building Modern Web Applications
+### Web Developer | React • Next.js • JavaScript
 
-📍 Dhaka, Bangladesh
+<p>
+  I enjoy building clean, responsive and practical web applications.
+  <br/>
+  Currently improving my skills through real-world projects and continuous learning.
+</p>
 
-<br/>
-
-<a href="https://github.com/iRfANhAiDeRABiR">
-  <img src="https://img.shields.io/badge/GitHub-iRfANhAiDeRABiR-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=iRfANhAiDeRABiR&label=Profile%20Views&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -18,27 +19,31 @@
 
 ## 👨‍💻 About Me
 
-I'm currently learning and building web applications with modern frontend technologies.
-
-- 🌱 Currently learning **React.js**
-- ⚡ Working with **JavaScript, React, Vite and Tailwind CSS**
-- 🧩 Building projects to improve my frontend development skills
-- 🎯 Focused on writing clean, reusable React components
-- 📱 Interested in responsive and user-friendly web interfaces
+- 🌍 Based in **Dhaka, Bangladesh**
+- 💻 Building modern web applications
+- ⚛️ Working with **React** and **Next.js**
+- 🌱 Currently improving my **full-stack development** skills
+- 🎯 Focused on writing clean and maintainable code
+- 📚 Learning by building real projects
+- 🚀 Interested in modern web technologies
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+
+### Backend & Runtime
+
+<img src="https://skillicons.dev/icons?i=nodejs,npm" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=vite,git,github,vscode" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -46,44 +51,17 @@ I'm currently learning and building web applications with modern frontend techno
 
 ## 🚀 Featured Projects
 
-### 🧰 Dev Stack
-
-A responsive React application for exploring development technologies and building a personal technology stack.
-
-**Built with:**
-
-`React` `JavaScript` `Tailwind CSS` `Vite` `JSON` `React Toastify`
-
-**Features:**
-
-- Browse development technologies
-- Add technologies to a personal stack
-- Remove individual or all technologies
-- Prevent duplicate selections
-- Sort selected technologies alphabetically
-- Responsive mobile, tablet and desktop layout
-- Toast notifications
-- Loading state for JSON data
-
----
-
-### 🏥 Healthcare React
-
-A React-based project from my learning journey.
-
-<a href="https://github.com/iRfANhAiDeRABiR/Healthcare-react">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="Healthcare React Repository"/>
-</a>
-
----
-
-### 📅 Find Exam Date
-
-A web project for working with exam-related information.
+<div align="center">
 
 <a href="https://github.com/iRfANhAiDeRABiR/Findexamdate">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="Find Exam Date Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iRfANhAiDeRABiR&repo=Findexamdate&theme=transparent&hide_border=true" />
 </a>
+
+<a href="https://github.com/iRfANhAiDeRABiR/Healthcare-react">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iRfANhAiDeRABiR&repo=Healthcare-react&theme=transparent&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
@@ -91,19 +69,17 @@ A web project for working with exam-related information.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iRfANhAiDeRABiR&show_icons=true&theme=transparent&hide_border=true" alt="Irfan's GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iRfANhAiDeRABiR&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRfANhAiDeRABiR&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRfANhAiDeRABiR&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
----
-
-## 🔥 GitHub Streak
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=iRfANhAiDeRABiR&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=iRfANhAiDeRABiR&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -113,32 +89,30 @@ A web project for working with exam-related information.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iRfANhAiDeRABiR&theme=github-compact&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iRfANhAiDeRABiR&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-## 🎯 Currently Working On
+## 🎯 Current Focus
 
 ```text
-React Components        ███████████████░░░░░
-JavaScript              ████████████████░░░░
-Tailwind CSS            ███████████████░░░░░
-Responsive Design       ████████████████░░░░
-Git & GitHub            ██████████████░░░░░░
-```
+React        ███████████████████░   Building
+Next.js      ██████████████████░░   Learning
+JavaScript   ███████████████████░   Improving
+Frontend     ████████████████████   Building
+Backend      ████████████░░░░░░░░   Learning
+````
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-I'm always interested in learning, building projects and improving my development skills.
-
 <a href="https://github.com/iRfANhAiDeRABiR">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-iRfANhAiDeRABiR-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -147,8 +121,17 @@ I'm always interested in learning, building projects and improving my developmen
 
 <div align="center">
 
-### Thanks for visiting my profile 👨‍💻
+### 💻 Code • Learn • Build • Improve
 
-![Profile Views](https://komarev.com/ghpvc/?username=iRfANhAiDeRABiR&style=flat-square)
+<sub>Thanks for visiting my GitHub profile.</sub>
 
 </div>
+```
+
+### How to add it
+
+Go to your `iRfANhAiDeRABiR` profile repository → **Add file → Create new file** → name it `README.md` → paste everything from above → **Commit changes**.
+
+Your special profile repository already exists but is currently empty, so adding `README.md` there should make the profile README appear.
+
+If you want, I can also make you a **more advanced “2026 developer portfolio” version** with animated header, social buttons, contribution snake, better project cards, and a cleaner black/purple developer theme.
