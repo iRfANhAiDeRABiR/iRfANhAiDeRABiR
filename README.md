@@ -95,15 +95,24 @@ Exploring      → APIs, databases and production workflows
 
 ## GitHub
 
-<p>
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRfANhAiDeRABiR&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888"
-    height="150"
-    alt="Most Used Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iRfANhAiDeRABiR&theme=github_dark"
+    alt="Most Commit Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iRfANhAiDeRABiR&theme=github_dark"
+    alt="GitHub Stats"
   />
 </p>
 
 ---
+
+## Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mysql,html,css,git,github,vscode,vite" />
+</p>
 
 <p align="center">
   <sub>
