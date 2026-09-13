@@ -81,10 +81,10 @@ A lightweight web project for finding exam schedules with a simple, accessible i
 ## Right now
 
 ```text
-Building       → web applications
-Learning       → Next.js & modern full-stack development
-Improving      → UI, architecture and clean code
-Exploring      → APIs, databases and production workflows
+⚡ Building → full-stack products
+🧠 Learning → Next.js, TypeScript & scalable architecture
+🎨 Refining → UI/UX + architecture
+🛠 Exploring → APIs, databases, auth & deployment
 ```
 
 ## GitHub
