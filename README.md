@@ -1,78 +1,205 @@
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Building+Clean+Interfaces+%26+Practical+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Express;MySQL+%7C+JWT+%7C+Modern+UI;Based+in+Dhaka%2C+Bangladesh">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Building+Clean+Interfaces+%26+Practical+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Express;MySQL+%7C+JWT+%7C+Modern+UI;Based+in+Dhaka%2C+Bangladesh" alt="Typing SVG" />
+</a>
 
-<h1 align="center">IRFAN HAIDER ABIR</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Irfan_Haider_Abir_dark_.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./Irfan_Haider_Abir_light_.svg">
+  <img alt="Irfan Haider Abir" src="./Irfan_Haider_Abir_light_.svg">
+</picture>
 
-<p align="center">
-  <strong>Full-Stack Web Developer</strong>
-  <br />
-  Building clean interfaces and practical web applications.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/iRfANhAiDeRABiR">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-22c55e?style=flat-square" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats-eight.vercel.app/?user=iRfANhAiDeRABiR&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-streak-stats-eight.vercel.app/?user=iRfANhAiDeRABiR&hide_border=true&background=FFFFFF&stroke=7C3AED&ring=6D28D9&fire=10B981&currStreakLabel=0F172A&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=7C3AED&card_width=1180"
+  />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=iRfANhAiDeRABiR&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+    width="100%"
+    alt="GitHub Streak Stats"
+  />
+</picture>
 
-<br />
+</div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iRfANhAiDeRABiR&theme=github_dark"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iRfANhAiDeRABiR&theme=github_default"/>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iRfANhAiDeRABiR&theme=github_default"
+    alt="GitHub Stats"/>
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iRfANhAiDeRABiR&theme=github_dark"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iRfANhAiDeRABiR&theme=github_default"/>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iRfANhAiDeRABiR&theme=github_default"
+    alt="Most Commit Language"/>
+</picture>
+
+<div align="center">
+<a href="https://github.com/iRfANhAiDeRABiR">
+<img src="https://img.shields.io/badge/GitHub-iRfANhAiDeRABiR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Dhaka-Bangladesh-0A66C2?style=for-the-badge" alt="Dhaka, Bangladesh" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-22c55e?style=for-the-badge" alt="Open to Learning and Building" />
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://iabir.me">
+<img src="https://img.shields.io/badge/Website-iabir.me-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" alt="Website" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/irfan-haider-abir">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
 
 ## About
 
-I'm a developer from **Dhaka, Bangladesh**, focused on building modern web applications with JavaScript.
+I am a **Full-Stack Web Developer** from **Dhaka, Bangladesh**, focused on building modern web applications with **JavaScript**.
 
-I like turning ideas into working products, learning new technologies through projects, and improving the small details that make software easier to use.
+I like turning ideas into working products, learning new technologies through projects, and improving the small details that make software easier to use. My work covers **frontend interfaces, backend APIs, and database-driven applications**.
 
-```js
-const irfan = {
-  location: "Dhaka, Bangladesh",
-  focus: "Full-Stack Web Development",
-  frontend: ["React", "Next.js", "JavaScript"],
-  backend: ["Node.js", "Express"],
-  database: ["MySQL"],
-  currently: "Building & learning"
-};
-```
+### Engineering Focus
 
-## Selected Work
+* Full-Stack Web Development
+* Modern frontend with React and Next.js
+* Backend APIs with Node.js and Express
+* Database design with MySQL
+* Authentication with JWT
+* Clean, responsive user interfaces
+* Deployment, APIs and architecture for real products
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Open To
 
-### 🩺 Healthcare Service
+**Full-Stack Development • Frontend Development • Backend Development • Open Source Collaboration**
 
-Full-stack healthcare platform connecting users with hospitals, diagnostics, blood banks, pharmacies, ambulance support and telemedicine.
+---
 
-**Built with**
+## Tech Stack
 
-`React` `Vite` `Node.js` `Express` `MySQL` `JWT`
+### Languages
 
-<a href="https://github.com/iRfANhAiDeRABiR/Healthcare-react">
-  View repository →
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,bash" />
+</p>
 
-</td>
+### Frontend
 
-<td width="50%" valign="top">
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
+</p>
 
-### 🎓 Meritloom — Mastery Learning Platform
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>01 · Healthcare Service</strong></summary>
+
+<br/>
+
+A full-stack healthcare platform connecting users with hospitals, diagnostics, blood banks, pharmacies, ambulance support and telemedicine.
+
+| Dimension       | Details                                                         |
+| --------------- | --------------------------------------------------------------- |
+| **Stack**       | React • Vite • Node.js • Express • MySQL • JWT                  |
+| **Scale**       | Full-stack healthcare service platform                          |
+| **Impact**      | Brings several healthcare services together in one application  |
+| **Repository**  | [View on GitHub](https://github.com/iRfANhAiDeRABiR/Healthcare-react) |
+
+### Engineering Perspective
+
+The project combines a **React frontend** with a **Node.js and Express API**, using **MySQL** for persistent data and **JWT** for authentication.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>02 · Meritloom — Mastery Learning Platform</strong></summary>
+
+<br/>
 
 A modern learning platform focused on structured learning, progress tracking, and a clean student experience.
 
-**Built with**
+| Dimension       | Details                                                                        |
+| --------------- | ------------------------------------------------------------------------------ |
+| **Stack**       | Next.js • React • TypeScript                                                   |
+| **Focus**       | Structured learning and progress tracking                                      |
+| **Impact**      | Delivers a clean, focused experience for students                              |
+| **Repository**  | [View on GitHub](https://github.com/iRfANhAiDeRABiR/Meritloom--Mastery-Learning-Platform) |
 
-`Next.js` `React` `JavaScript` `Modern UI`
+### Engineering Perspective
 
-<a href="https://github.com/iRfANhAiDeRABiR/Meritloom--Mastery-Learning-Platform">
-  View repository →
-</a>
+The project applies **modern UI practices** and a component-based **Next.js** architecture to a learning-focused product.
 
-</td>
-</tr>
-</table>
+</details>
 
-## Right now
+<br/>
+
+<details>
+<summary><strong>03 · UIU UCAM Course Evaluation Automator</strong></summary>
+
+<br/>
+
+A Chrome and Firefox extension that automates course evaluations on the UIU UCAM portal, with one-click evaluation from an active session and a per-course checklist.
+
+| Dimension       | Details                                                                                      |
+| --------------- | -------------------------------------------------------------------------------------------- |
+| **Stack**       | JavaScript • Manifest V3 • Browser Extension APIs                                            |
+| **Scale**       | Browser extension packaged for Chrome and Firefox (v1.0.2)                                   |
+| **Impact**      | Automates a repetitive university workflow, with live progress and logs                      |
+| **Security**    | Runs client-side on the UCAM domain, minimal permissions, credentials cleared after login    |
+| **Repository**  | [View on GitHub](https://github.com/iRfANhAiDeRABiR/UIU-Course-Evaluation-Tool)              |
+
+### Engineering Perspective
+
+The project shows how a browser extension can automate a multi-step web form safely, using **content scripts**, **background workers**, and **DOM-safe rendering**, with separate builds for **Chrome** and **Firefox**.
+
+</details>
+
+---
+
+## Right Now
 
 ```text
 ⚡ Building → full-stack products
@@ -81,30 +208,14 @@ A modern learning platform focused on structured learning, progress tracking, an
 🛠 Exploring → APIs, databases, auth & deployment
 ```
 
-## GitHub
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iRfANhAiDeRABiR&theme=github_dark"
-    alt="Most Commit Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iRfANhAiDeRABiR&theme=github_dark"
-    alt="GitHub Stats"
-  />
-</p>
-
 ---
 
-## Technologies
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mysql,html,css,git,github,vscode,vite" />
-</p>
+### `Build it. Learn it. Improve it. Repeat.`
 
-<p align="center">
-  <sub>
-    build → learn → improve → repeat
-  </sub>
-</p>
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:312e81&height=120&section=footer&animation=fadeIn" width="100%" />
+
+</div>
