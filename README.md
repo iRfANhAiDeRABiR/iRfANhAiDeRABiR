@@ -10,6 +10,12 @@
 
 <div align="center">
 
+<img src="./iha-banner-no-whitespace.svg" width="100%" alt="IHA Banner" />
+
+</div>
+
+<div align="center">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
