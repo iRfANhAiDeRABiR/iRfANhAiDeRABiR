@@ -10,12 +10,6 @@
 
 <div align="center">
 
-<img src="./iha-banner-no-whitespace.svg" width="100%" alt="IHA Banner" />
-
-</div>
-
-<div align="center">
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -81,6 +75,14 @@
 <a href="https://www.linkedin.com/in/irfan-haider-abir">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./iha-banner-no-whitespace.svg" width="100%" alt="IHA Banner" />
 
 </div>
 
