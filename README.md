@@ -110,6 +110,12 @@ I like turning ideas into working products, learning new technologies through pr
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./snake-light.svg">
+  <img alt="GitHub contribution snake" src="./snake-dark.svg">
+</picture>
+
 ## Tech Stack
 
 ### Languages
