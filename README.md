@@ -1,14 +1,83 @@
+<div align="center">
+
 <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Building+Clean+Interfaces+%26+Practical+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Express;MySQL+%7C+JWT+%7C+Modern+UI;Based+in+Dhaka%2C+Bangladesh">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Building+Clean+Interfaces+%26+Practical+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Express;MySQL+%7C+JWT+%7C+Modern+UI;Based+in+Dhaka%2C+Bangladesh" alt="Typing SVG" />
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Irfan_Haider_Abir_dark_.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./Irfan_Haider_Abir_light_.svg">
-  <img alt="Irfan Haider Abir" src="./Irfan_Haider_Abir_light_.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iRfANhAiDeRABiR/iRfANhAiDeRABiR/assets-header/Irfan_Haider_Abir_dark_.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iRfANhAiDeRABiR/iRfANhAiDeRABiR/assets-header/Irfan_Haider_Abir_light_.svg">
+  <img alt="Irfan Haider Abir — Terminal Profile Card" src="https://raw.githubusercontent.com/iRfANhAiDeRABiR/iRfANhAiDeRABiR/assets-header/Irfan_Haider_Abir_dark_.svg" width="100%">
 </picture>
 
+<br/><br/>
+
+<a href="https://iabir.me">
+  <img src="https://img.shields.io/badge/Website-iabir.me-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" alt="Website" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/irfan-haider-abir">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/iRfANhAiDeRABiR">
+  <img src="https://img.shields.io/badge/GitHub-iRfANhAiDeRABiR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Dhaka-Bangladesh-0A66C2?style=for-the-badge" alt="Dhaka, Bangladesh" />
+&nbsp;&nbsp;
+<a href="./LICENSE">
+  <img src="https://img.shields.io/badge/Copyright-%C2%A9%20All%20Rights%20Reserved-e11d48?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Copyright Protected" />
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Building-22c55e?style=for-the-badge" alt="Open to Building" />
+
+</div>
+
+---
+
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/iRfANhAiDeRABiR/iRfANhAiDeRABiR/assets-banner/iha-banner-no-whitespace.svg" width="100%" alt="IHA Technology Banner" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Software Engineer & Full-Stack Web Developer** from **Dhaka, Bangladesh**, with a **BSc in Computer Science & Engineering**.
+
+I specialize in architecting responsive web applications, high-throughput RESTful APIs, and scalable database schemas. My core focus centers on bridging frontend ergonomics with dependable backend systems—transforming complex product requirements into robust, high-performance software.
+
+```mermaid
+flowchart LR
+    A["Client UI (React / Next.js)"] -->|"REST APIs / JWT"| B["Backend Service (Node.js / Express)"]
+    B -->|"Persistent Storage"| C[("Relational DB (MySQL)")]
+    B -->|"Container & Deployment"| D["Docker / Vercel"]
+```
+
+### 🎯 Engineering Pillars
+
+- **Frontend Craftsmanship:** Component-driven development with React & Next.js, emphasizing performance, accessibility, and modern responsive UI.
+- **Backend Architecture:** RESTful API design using Node.js & Express, structured route handling, and stateless JWT authentication workflows.
+- **Data Modeling:** Normalized schema design, indexed queries, and relational data integrity with MySQL.
+- **Browser Automation & Tooling:** Production-grade browser extensions utilizing Manifest V3, DOM-safe isolation, and content scripts.
+- **Modern Workflow:** Version control best practices, modular software patterns, and automated deployment pipelines.
+
+---
+
+## 📈 Activity & Contribution Velocity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iRfANhAiDeRABiR/iRfANhAiDeRABiR/assets-snake/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iRfANhAiDeRABiR/iRfANhAiDeRABiR/assets-snake/snake-light.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/iRfANhAiDeRABiR/iRfANhAiDeRABiR/assets-snake/snake-dark.svg" width="100%">
+</picture>
+
+<br/>
 
 <picture>
   <source
@@ -26,7 +95,7 @@
   />
 </picture>
 
-</div>
+<br/>
 
 <picture>
   <source
@@ -37,10 +106,9 @@
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iRfANhAiDeRABiR&theme=github_default"/>
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iRfANhAiDeRABiR&theme=github_default"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iRfANhAiDeRABiR&theme=github_dark"
     alt="GitHub Stats"/>
 </picture>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -50,186 +118,152 @@
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iRfANhAiDeRABiR&theme=github_default"/>
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iRfANhAiDeRABiR&theme=github_default"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iRfANhAiDeRABiR&theme=github_dark"
     alt="Most Commit Language"/>
 </picture>
 
-<div align="center">
-<a href="https://github.com/iRfANhAiDeRABiR">
-<img src="https://img.shields.io/badge/GitHub-iRfANhAiDeRABiR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Dhaka-Bangladesh-0A66C2?style=for-the-badge" alt="Dhaka, Bangladesh" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-22c55e?style=for-the-badge" alt="Open to Learning and Building" />
 </div>
 
 ---
 
-<div align="center">
+## 🛠️ Tech Arsenal
 
-<a href="https://iabir.me">
-<img src="https://img.shields.io/badge/Website-iabir.me-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" alt="Website" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/irfan-haider-abir">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./iha-banner-no-whitespace.svg" width="100%" alt="IHA Banner" />
-
-</div>
-
----
-
-## About
-
-I am a **Full-Stack Web Developer** from **Dhaka, Bangladesh**, focused on building modern web applications with **JavaScript**.
-
-I like turning ideas into working products, learning new technologies through projects, and improving the small details that make software easier to use. My work covers **frontend interfaces, backend APIs, and database-driven applications**.
-
-### Engineering Focus
-
-* Full-Stack Web Development
-* Modern frontend with React and Next.js
-* Backend APIs with Node.js and Express
-* Database design with MySQL
-* Authentication with JWT
-* Clean, responsive user interfaces
-* Deployment, APIs and architecture for real products
-
-### Open To
-
-**Full-Stack Development • Frontend Development • Backend Development • Open Source Collaboration**
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>Languages</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,java,bash,html,css" /></a>
+      <br/>
+      <sub>JavaScript (ES6+) • TypeScript • Python • Java • Bash • HTML5 • CSS3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Frontend & UI</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" /></a>
+      <br/>
+      <sub>React.js • Next.js (App Router) • Vite • Tailwind CSS • Responsive Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Backend & Databases</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,mongodb" /></a>
+      <br/>
+      <sub>Node.js • Express.js • MySQL • Firebase • MongoDB • REST APIs • JWT Auth</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>DevOps & Workflow</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" /></a>
+      <br/>
+      <sub>Git • GitHub • Docker • Vercel • VS Code • Postman • Linux Environments</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./snake-light.svg">
-  <img alt="GitHub contribution snake" src="./snake-dark.svg">
-</picture>
+## 🚀 Featured Engineering Projects
 
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,bash" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## Featured Projects
-
-<details>
-<summary><strong>01 · Healthcare Service</strong></summary>
+<details open>
+<summary><strong>01 · Healthcare Service Platform</strong> — <em>Full-Stack Medical Network</em></summary>
 
 <br/>
 
-A full-stack healthcare platform connecting users with hospitals, diagnostics, blood banks, pharmacies, ambulance support and telemedicine.
+A comprehensive full-stack digital healthcare ecosystem connecting patients to medical services across hospitals, diagnostic centers, blood banks, pharmacies, ambulance dispatch, and telemedicine.
 
-| Dimension       | Details                                                         |
-| --------------- | --------------------------------------------------------------- |
-| **Stack**       | React • Vite • Node.js • Express • MySQL • JWT                  |
-| **Scale**       | Full-stack healthcare service platform                          |
-| **Impact**      | Brings several healthcare services together in one application  |
-| **Repository**  | [View on GitHub](https://github.com/iRfANhAiDeRABiR/Healthcare-react) |
-
-### Engineering Perspective
-
-The project combines a **React frontend** with a **Node.js and Express API**, using **MySQL** for persistent data and **JWT** for authentication.
-
-</details>
-
-<br/>
-
-<details>
-<summary><strong>02 · Meritloom — Mastery Learning Platform</strong></summary>
-
-<br/>
-
-A modern learning platform focused on structured learning, progress tracking, and a clean student experience.
-
-| Dimension       | Details                                                                        |
-| --------------- | ------------------------------------------------------------------------------ |
-| **Stack**       | Next.js • React • TypeScript                                                   |
-| **Focus**       | Structured learning and progress tracking                                      |
-| **Impact**      | Delivers a clean, focused experience for students                              |
-| **Repository**  | [View on GitHub](https://github.com/iRfANhAiDeRABiR/Meritloom--Mastery-Learning-Platform) |
-
-### Engineering Perspective
-
-The project applies **modern UI practices** and a component-based **Next.js** architecture to a learning-focused product.
-
-</details>
-
-<br/>
-
-<details>
-<summary><strong>03 · UIU UCAM Course Evaluation Automator</strong></summary>
-
-<br/>
-
-A Chrome and Firefox extension that automates course evaluations on the UIU UCAM portal, with one-click evaluation from an active session and a per-course checklist.
-
-| Dimension       | Details                                                                                      |
-| --------------- | -------------------------------------------------------------------------------------------- |
-| **Stack**       | JavaScript • Manifest V3 • Browser Extension APIs                                            |
-| **Scale**       | Browser extension packaged for Chrome and Firefox (v1.0.2)                                   |
-| **Impact**      | Automates a repetitive university workflow, with live progress and logs                      |
-| **Security**    | Runs client-side on the UCAM domain, minimal permissions, credentials cleared after login    |
-| **Repository**  | [View on GitHub](https://github.com/iRfANhAiDeRABiR/UIU-Course-Evaluation-Tool)              |
-
-### Engineering Perspective
-
-The project shows how a browser extension can automate a multi-step web form safely, using **content scripts**, **background workers**, and **DOM-safe rendering**, with separate builds for **Chrome** and **Firefox**.
-
-</details>
-
----
-
-## Right Now
+| Dimension | Implementation Details |
+| :--- | :--- |
+| **Tech Stack** | React • Vite • Node.js • Express • MySQL • JWT • REST API |
+| **Architecture** | Decoupled client-server architecture with secured endpoint authentication |
+| **Key Features** | Multi-role portal, appointment management, telemedicine scheduling, blood donor directory |
+| **Database** | Relational schema in MySQL with indexed foreign relations and transactional integrity |
+| **Source Code** | [View on GitHub → `Healthcare-react`](https://github.com/iRfANhAiDeRABiR/Healthcare-react) |
 
 ```text
-⚡ Building → full-stack products
-🧠 Learning → Next.js, TypeScript & scalable architecture
-🎨 Refining → UI/UX + architecture
-🛠 Exploring → APIs, databases, auth & deployment
+React Client (Vite)  ──►  Express Router  ──►  Auth Middleware (JWT)  ──►  MySQL Engine
+```
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>02 · Meritloom — Mastery Learning Platform</strong> — <em>Competency-Based Education</em></summary>
+
+<br/>
+
+A modern educational platform designed for structured student mastery, competency tracking, and an uncluttered interactive curriculum journey.
+
+| Dimension | Implementation Details |
+| :--- | :--- |
+| **Tech Stack** | Next.js • React • TypeScript • Tailwind CSS |
+| **Architecture** | Server-driven Next.js architecture leveraging TypeScript type-safety |
+| **Key Features** | Step-by-step progress tracking, interactive learning modules, student analytics |
+| **Performance** | Optimized asset bundling, fast client hydration, and responsive layout styling |
+| **Source Code** | [View on GitHub → `Meritloom--Mastery-Learning-Platform`](https://github.com/iRfANhAiDeRABiR/Meritloom--Mastery-Learning-Platform) |
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>03 · UIU UCAM Course Evaluation Automator</strong> — <em>Browser Automation Tool (v1.0.2)</em></summary>
+
+<br/>
+
+A production browser extension built for Google Chrome and Mozilla Firefox that automates end-of-semester faculty evaluations on the university's UCAM portal through an active authenticated session.
+
+| Dimension | Implementation Details |
+| :--- | :--- |
+| **Tech Stack** | JavaScript • Manifest V3 • WebExtensions APIs • DOM Scripting |
+| **Packaging** | Multi-browser distribution supporting Chrome Web Store & Firefox Add-ons |
+| **Security Architecture** | Zero credential logging; operates purely in-memory within active session; auto-cleans state |
+| **Workflow Impact** | Eliminates repetitive multi-step forms with batch execution, course checklists, and live execution logs |
+| **Source Code** | [View on GitHub → `UIU-Course-Evaluation-Tool`](https://github.com/iRfANhAiDeRABiR/UIU-Course-Evaluation-Tool) |
+
+</details>
+
+---
+
+## ⚡ Right Now
+
+```text
+⚡ Building   → High-impact full-stack web applications & open-source solutions
+🧠 Mastering  → Next.js App Router, TypeScript system design & cloud microservices
+🎨 Refining   → Fluid UI/UX animations, responsive typography & micro-interactions
+🛠 Exploring  → Scalable database indexing, secure authentication & Docker orchestration
 ```
 
 ---
 
+## 🛡️ Intellectual Property & Copyright Protection
+
+> [!IMPORTANT]
+> **Copyright &copy; 2026 Irfan Haider Abir. All Rights Reserved.**
+> 
+> All custom vector graphics, SVG animations, terminal cards, technology banners, and profile repository assets are the proprietary intellectual property of **Irfan Haider Abir**.
+> 
+> - **Anti-Plagiarism Protection:** Vector assets are maintained on dedicated protected branches (`assets-header`, `assets-banner`, `assets-snake`) with embedded copyright watermarks and metadata.
+> - **Restrictions:** Unauthorized cloning, copying, scraping, redistribution, modification, or inclusion of these original SVG illustrations, source codes, or designs into third-party repositories/profiles without explicit written consent is strictly prohibited.
+> - **Terms & Enforcement:** Violations are subject to DMCA takedown procedures and international copyright enforcement. Read the full terms in the [LICENSE](./LICENSE) file.
+> 
+> *For legitimate licensing, design attribution, or collaboration permissions, contact [hello@iabir.me](mailto:hello@iabir.me).*
+
+---
+
 <div align="center">
 
-### `Build it. Learn it. Improve it. Repeat.`
+### 💡 `Build it. Learn it. Improve it. Repeat.`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:312e81&height=120&section=footer&animation=fadeIn" width="100%" />
+<a href="https://iabir.me">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:312e81&height=120&section=footer&animation=fadeIn" width="100%" />
+</a>
+
+<sub>&copy; 2026 Irfan Haider Abir &bull; Built with precision and passion.</sub>
 
 </div>

@@ -1,0 +1,13 @@
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files & assets
+_staging_assets/
+*.tmp
