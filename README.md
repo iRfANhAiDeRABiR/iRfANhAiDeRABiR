@@ -30,6 +30,10 @@
   <img src="https://img.shields.io/badge/Copyright-%C2%A9%20All%20Rights%20Reserved-e11d48?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Copyright Protected" />
 </a>
 &nbsp;&nbsp;
+<a href="./SECURITY.md">
+  <img src="https://img.shields.io/badge/Security-Policy%20Active-0F172A?style=for-the-badge&logo=shield&logoColor=22D3EE" alt="Security Policy Active" />
+</a>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Building-22c55e?style=for-the-badge" alt="Open to Building" />
 
 </div>
@@ -248,7 +252,7 @@ A production browser extension built for Google Chrome and Mozilla Firefox that 
 > 
 > - **Anti-Plagiarism Protection:** Vector assets are maintained on dedicated protected branches (`assets-header`, `assets-banner`, `assets-snake`) with embedded copyright watermarks and metadata.
 > - **Restrictions:** Unauthorized cloning, copying, scraping, redistribution, modification, or inclusion of these original SVG illustrations, source codes, or designs into third-party repositories/profiles without explicit written consent is strictly prohibited.
-> - **Terms & Enforcement:** Violations are subject to DMCA takedown procedures and international copyright enforcement. Read the full terms in the [LICENSE](./LICENSE) file.
+> - **Terms & Enforcement:** Violations are subject to DMCA takedown procedures and international copyright enforcement. Read the full terms in the [LICENSE](./LICENSE) and [Security Policy](./SECURITY.md).
 > 
 > *For legitimate licensing, design attribution, or collaboration permissions, contact [hello@iabir.me](mailto:hello@iabir.me).*
 
