@@ -20,3 +20,4 @@ If you identify a security vulnerability, an exposed secret, or an instance of u
 
 > [!NOTE]
 > Please do **not** open public issues for security vulnerabilities or DMCA/copyright inquiries. Use the direct email above for confidential and prompt handling.
+
