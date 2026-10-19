@@ -10,5 +10,7 @@ Thumbs.db
 
 # Temporary files & assets
 _staging_assets/
+offline_resources/
+_download_offline_resources.js
 *.tmp
 
