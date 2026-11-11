@@ -81,6 +81,12 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Building-22c55e?style=for-the-badge" alt="Open to Building" />
 
+<br/><br/>
+
+<a href="https://github.com/iRfANhAiDeRABiR">
+  <img src="https://komarev.com/ghpvc/?username=iRfANhAiDeRABiR&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+</a>
+
 </div>
 
 ---
