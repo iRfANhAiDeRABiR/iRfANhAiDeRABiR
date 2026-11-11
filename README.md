@@ -80,11 +80,9 @@
 </a>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Building-22c55e?style=for-the-badge" alt="Open to Building" />
-
-<br/><br/>
-
+&nbsp;&nbsp;
 <a href="https://github.com/iRfANhAiDeRABiR">
-  <img src="https://komarev.com/ghpvc/?username=iRfANhAiDeRABiR&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/iRfANhAiDeRABiR.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7C3AED&labelColor=0A101F&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjJEM0VFIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMiAxMnMzLjUtNyAxMC03IDEwIDcgMTAgNy0zLjUgNy0xMCA3LTEwLTctMTAtN1oiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIi8+PC9zdmc%2B&extraCount=13" alt="Profile Views" />
 </a>
 
 </div>
